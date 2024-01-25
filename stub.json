@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a Python script to build an organizational chart and group 3 types (PA, AM, OM) into clusters on a spreadsheet.","md5":"a5196581c38633fb89967d60263ed705"}]}
